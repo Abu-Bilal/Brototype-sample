@@ -1,4 +1,4 @@
 #add 2 number
-a = 5
-b = 6
-print(a + b)
+number1 = 5
+number = 6
+print(number1 + number2)
